@@ -1,0 +1,19 @@
+One-Page Report
+Project: Google-style Mini Social Login System + Student CRUD
+
+Platform chosen: Google-style UI (clean, minimal, Google color palette)
+Features implemented:
+- Sign Up with validation (required fields, email validation, password length, confirmation)
+- Sign In with username/email + password
+- Mock "Login with Google" button that simulates login
+- Dashboard (welcome, links to CRUD, logout)
+- Student CRUD (Add, View, Edit, Delete)
+- CSS following Google-inspired design
+- SQL file to create database + sample user
+
+Challenges:
+- Kept code simple and secure for beginners using prepared statements for DB writes
+- Ensured user-friendly validation and clear messaging
+- Prepared project to be easy to run on XAMPP
+
+Author: Nsabimana Brice
